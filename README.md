@@ -62,3 +62,30 @@ This repository emphasizes:
 ---
 
 ## 📁 Repository Structure
+
+
+## ⚙️ Installation
+
+```bash
+pip install -r requirements.txt
+
+
+
+---
+
+### Final tip (this matters for recruiters)
+
+A clean `requirements.txt` tells people:
+- You understand environment setup  
+- You’re not just coding—you think like a developer  
+
+---
+
+If you want next step:
+I can help you create:
+- 🔥 `environment.yml` (advanced, for data science)
+- ⚙️ Virtual environment setup (real industry workflow)
+- 📦 Convert this into a **deployable project structure**
+
+Just tell me 👍
+
